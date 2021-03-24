@@ -1,2 +1,2 @@
-stringa = "morethantencharacters";
-stringb = stringa.substring(0,10);
+stringA = "morethantencharacters";
+stringB = stringa.substring(0,10);
