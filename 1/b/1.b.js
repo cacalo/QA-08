@@ -1,2 +1,3 @@
-stringA = "morethantencharacters";
-stringB = stringa.substring(0,10);
+firstPart = "Hello ";
+secondPart = "World";
+together = firstPart+secondPart;
